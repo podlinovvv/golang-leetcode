@@ -1,6 +1,6 @@
 # golang leetcode solutions
 
-тут я решаю таски с leetcode на языке Go:
+Тут я решаю таски с leetcode на языке Go:
 
 * [1. Two Sum](https://github.com/podlinovvv/golang-leetcode/blob/master/solution/1.%20Two%20Sum.md)
 * [2. Add Two Numbers](https://github.com/podlinovvv/golang-leetcode/blob/master/solution/2.%20Add%20Two%20Numbers.md)
